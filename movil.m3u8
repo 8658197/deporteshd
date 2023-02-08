@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.193.234/picon/1_0_19_19E_3E8_22D4_EEEE0000_0_0_0.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
+#EXTINF:-1 tvg-logo="http://192.168.193.234/picon/1_0_19_19E_3E8_22D4_EEEE0000_0_0_0.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
 #EXTVLCOPT:program=414
 http://192.168.193.234:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-chno="418" tvg-logo="http://192.168.193.234/picon/1_0_19_1A2_3E8_22D4_EEEE0000_0_0_0.png" tvg-id="1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
