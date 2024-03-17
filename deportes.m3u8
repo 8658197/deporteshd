@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.193.234/picon/la1hd.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
 #EXTVLCOPT:program=414
-http://192.168.193.234:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
+http://192.168.193.234:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="278" tvg-logo="http://192.168.193.234/picon/golplay.png" tvg-id="1:0:1:116:E:22D4:EEEE0000:0:0:0:" tvg-name="GOL PLAY",GOL PLAY
 #EXTVLCOPT:program=278
 http://192.168.193.234:8001/1:0:1:116:E:22D4:EEEE0000:0:0:0:
