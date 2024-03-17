@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.193.234/picon/la1hd.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
 #EXTVLCOPT:program=414
-http://192.168.193.234:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+http://192.168.193.234:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-chno="278" tvg-logo="http://192.168.193.234/picon/golplay.png" tvg-id="1:0:1:116:E:22D4:EEEE0000:0:0:0:" tvg-name="GOL PLAY",GOL PLAY
 #EXTVLCOPT:program=278
 http://192.168.193.234:8001/1:0:1:116:E:22D4:EEEE0000:0:0:0:
@@ -45,3 +45,9 @@ http://192.168.193.234:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30002" tvg-logo="http://192.168.193.234/picon/mplusdeportes2hd.png" tvg-id="1:0:19:7532:426:1:C00000:0:0:0:" tvg-name="M+DEPORTES2HD",M+DEPORTES2HD
 #EXTVLCOPT:program=30002
 http://192.168.193.234:8001/1:0:19:7532:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30372" tvg-logo="http://192.168.193.234/picon/dazn1.png" tvg-id="1:0:1:76A4:41E:1:C00000:0:0:0:" tvg-name="DAZN 1",DAZN 1
+#EXTVLCOPT:program=30372
+http://192.168.193.234:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30506" tvg-logo="http://192.168.193.234/picon/dazn2.png" tvg-id="1:0:1:772A:416:1:C00000:0:0:0:" tvg-name="DAZN 2",DAZN 2
+#EXTVLCOPT:program=30506
+http://192.168.193.234:8001/1:0:1:772A:416:1:C00000:0:0:0:
