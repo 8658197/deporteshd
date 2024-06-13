@@ -330,6 +330,4 @@ http://192.168.193.234:8001/1:0:1:7697:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30079" tvg-logo="http://192.168.193.234/picon/mplusmusica.png" tvg-id="1:0:1:757F:412:1:C00000:0:0:0:" tvg-name="M+ Música",M+ Música
 #EXTVLCOPT:program=30079
 http://192.168.193.234:8001/1:0:1:757F:412:1:C00000:0:0:0:
-#EXTINF:ONETORO
-http://vengadormamoa.ddns.net:25461/live/juanrom/8rEgF2ypne5e/279.ts
 
