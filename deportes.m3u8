@@ -99,18 +99,18 @@ http://192.168.1.100:8001/1:0:1:778F:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30521" tvg-logo="http://192.168.1.100/picon/mplusdeportes2.png" tvg-id="1:0:1:7739:416:1:C00000:0:0:0:" tvg-name="M+DEPORTES2",M+DEPORTES2
 #EXTVLCOPT:program=30521
 http://192.168.1.100:8001/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30509" tvg-logo="http://192.168.1.100/picon/eurosport1.png" tvg-id="1:0:1:772D:416:1:C00000:0:0:0:" tvg-name="EUROSPORT 1",EUROSPORT 1
-#EXTVLCOPT:program=30509
-http://192.168.1.100:8001/1:0:1:772D:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30005" tvg-logo="http://192.168.1.100/picon/eurosport1hd.png" tvg-id="1:0:19:7535:426:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
+#EXTVLCOPT:program=30005
+http://192.168.1.100:8001/1:0:19:7535:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30373" tvg-logo="http://192.168.1.100/picon/eurosport2.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
 #EXTVLCOPT:program=30373
 http://192.168.1.100:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29800" tvg-logo="http://192.168.1.100/picon/mplusellasv.png" tvg-id="1:0:1:7468:3F0:1:C00000:0:0:0:" tvg-name="M+ Ellas V",M+ Ellas V
-#EXTVLCOPT:program=29800
-http://192.168.1.100:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30516" tvg-logo="http://192.168.1.100/picon/mplusvamos.png" tvg-id="1:0:1:7734:416:1:C00000:0:0:0:" tvg-name="M+ VAMOS",M+ VAMOS
-#EXTVLCOPT:program=30516
-http://192.168.1.100:8001/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30514" tvg-logo="http://192.168.1.100/picon/daznf1.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:0:" tvg-name="DAZN F1",DAZN F1
-#EXTVLCOPT:program=30514
-http://192.168.1.100:8001/1:0:1:7732:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29960" tvg-logo="http://192.168.1.100/picon/mplusvamoshd.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="M+ VAMOSHD",M+ VAMOSHD
+#EXTVLCOPT:program=29960
+http://192.168.1.100:8001/1:0:19:7508:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30901" tvg-logo="http://192.168.1.100/picon/mplusellasvhd.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="M+ELLAS V HD",M+ELLAS V HD
+#EXTVLCOPT:program=30901
+http://192.168.1.100:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30001" tvg-logo="http://192.168.1.100/picon/daznf1hd.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
+#EXTVLCOPT:program=30001
+http://192.168.1.100:8001/1:0:19:7531:426:1:C00000:0:0:0:
