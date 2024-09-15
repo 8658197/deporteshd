@@ -105,12 +105,12 @@ http://192.168.1.100:8001/1:0:1:772D:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30373" tvg-logo="http://192.168.1.100/picon/eurosport2.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
 #EXTVLCOPT:program=30373
 http://192.168.1.100:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29800" tvg-logo="http://192.168.1.100/images/default_picon.png" tvg-id="1:0:1:7468:3F0:1:C00000:0:0:0:" tvg-name="M+ Ellas V",M+ Ellas V
+#EXTINF:-1 tvg-chno="29800" tvg-logo="http://192.168.1.100/picon/mplusellasv.png" tvg-id="1:0:1:7468:3F0:1:C00000:0:0:0:" tvg-name="M+ Ellas V",M+ Ellas V
 #EXTVLCOPT:program=29800
 http://192.168.1.100:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30516" tvg-logo="http://192.168.1.100/picon/mplusvamos.png" tvg-id="1:0:1:7734:416:1:C00000:0:0:0:" tvg-name="M+ VAMOS",M+ VAMOS
 #EXTVLCOPT:program=30516
 http://192.168.1.100:8001/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30514" tvg-logo="http://192.168.1.100/images/default_picon.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:0:" tvg-name="DAZN F1",DAZN F1
+#EXTINF:-1 tvg-chno="30514" tvg-logo="http://192.168.1.100/picon/daznf1.png" tvg-id="1:0:1:7732:416:1:C00000:0:0:0:" tvg-name="DAZN F1",DAZN F1
 #EXTVLCOPT:program=30514
 http://192.168.1.100:8001/1:0:1:7732:416:1:C00000:0:0:0:
