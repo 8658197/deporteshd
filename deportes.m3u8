@@ -1,131 +1,131 @@
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="30088" tvg-logo="http://192.168.1.100/picon/movistarplusplus.png" tvg-id="1:0:1:7588:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+",Movistar Plus+
+#EXTINF:-1 tvg-chno="30088" tvg-logo="http://192.168.192.100/picon/movistarplusplus.png" tvg-id="1:0:1:7588:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+",Movistar Plus+
 #EXTVLCOPT:program=30088
-http://192.168.1.100:8001/1:0:1:7588:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29850" tvg-logo="http://192.168.1.100/picon/movistarplusplushd.png" tvg-id="1:0:19:749A:41C:1:C00000:0:0:0:" tvg-name="Movistar Plus+ HD",Movistar Plus+ HD
+http://192.168.192.100:8001/1:0:1:7588:412:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29850" tvg-logo="http://192.168.192.100/picon/movistarplusplushd.png" tvg-id="1:0:19:749A:41C:1:C00000:0:0:0:" tvg-name="Movistar Plus+ HD",Movistar Plus+ HD
 #EXTVLCOPT:program=29850
-http://192.168.1.100:8001/1:0:19:749A:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30615" tvg-logo="http://192.168.1.100/picon/mpluslaligatv.png" tvg-id="1:0:1:7797:424:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV",M+ LALIGA TV
+http://192.168.192.100:8001/1:0:19:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30615" tvg-logo="http://192.168.192.100/picon/mpluslaligatv.png" tvg-id="1:0:1:7797:424:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV",M+ LALIGA TV
 #EXTVLCOPT:program=30615
-http://192.168.1.100:8001/1:0:1:7797:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29967" tvg-logo="http://192.168.1.100/picon/mpluslaligatvhd.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV HD",M+ LALIGA TV HD
+http://192.168.192.100:8001/1:0:1:7797:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29967" tvg-logo="http://192.168.192.100/picon/mpluslaligatvhd.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV HD",M+ LALIGA TV HD
 #EXTVLCOPT:program=29967
-http://192.168.1.100:8001/1:0:19:750F:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30365" tvg-logo="http://192.168.1.100/picon/mpluslaligatv2.png" tvg-id="1:0:1:769D:41E:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 2",M+ LALIGA TV 2
+http://192.168.192.100:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30365" tvg-logo="http://192.168.192.100/picon/mpluslaligatv2.png" tvg-id="1:0:1:769D:41E:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 2",M+ LALIGA TV 2
 #EXTVLCOPT:program=30365
-http://192.168.1.100:8001/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29965" tvg-logo="http://192.168.1.100/picon/mpluslaligatv2hd.png" tvg-id="1:0:19:750D:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 2 HD",M+ LALIGA TV 2 HD
+http://192.168.192.100:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29965" tvg-logo="http://192.168.192.100/picon/mpluslaligatv2hd.png" tvg-id="1:0:19:750D:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 2 HD",M+ LALIGA TV 2 HD
 #EXTVLCOPT:program=29965
-http://192.168.1.100:8001/1:0:19:750D:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30653" tvg-logo="http://192.168.1.100/picon/mpluslaligatv3.png" tvg-id="1:0:1:77BD:40A:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 3",M+ LALIGA TV 3
+http://192.168.192.100:8001/1:0:19:750D:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30653" tvg-logo="http://192.168.192.100/picon/mpluslaligatv3.png" tvg-id="1:0:1:77BD:40A:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 3",M+ LALIGA TV 3
 #EXTVLCOPT:program=30653
-http://192.168.1.100:8001/1:0:1:77BD:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29859" tvg-logo="http://192.168.1.100/picon/mpluslaligatv3hd.png" tvg-id="1:0:19:74A3:41C:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 3 HD",M+ LALIGA TV 3 HD
+http://192.168.192.100:8001/1:0:1:77BD:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29859" tvg-logo="http://192.168.192.100/picon/mpluslaligatv3hd.png" tvg-id="1:0:19:74A3:41C:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 3 HD",M+ LALIGA TV 3 HD
 #EXTVLCOPT:program=29859
-http://192.168.1.100:8001/1:0:19:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30409" tvg-logo="http://192.168.1.100/picon/daznlaliga.png" tvg-id="1:0:1:76C9:40E:1:C00000:0:0:0:" tvg-name="DAZN LALIGA",DAZN LALIGA
+http://192.168.192.100:8001/1:0:19:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30409" tvg-logo="http://192.168.192.100/picon/daznlaliga.png" tvg-id="1:0:1:76C9:40E:1:C00000:0:0:0:" tvg-name="DAZN LALIGA",DAZN LALIGA
 #EXTVLCOPT:program=30409
-http://192.168.1.100:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30004" tvg-logo="http://192.168.1.100/picon/daznlaligahd.png" tvg-id="1:0:19:7534:426:1:C00000:0:0:0:" tvg-name="DAZN LALIGA HD",DAZN LALIGA HD
+http://192.168.192.100:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30004" tvg-logo="http://192.168.192.100/picon/daznlaligahd.png" tvg-id="1:0:19:7534:426:1:C00000:0:0:0:" tvg-name="DAZN LALIGA HD",DAZN LALIGA HD
 #EXTVLCOPT:program=30004
-http://192.168.1.100:8001/1:0:19:7534:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30353" tvg-logo="http://192.168.1.100/picon/daznlaliga2.png" tvg-id="1:0:1:7691:41E:1:C00000:0:0:0:" tvg-name="DAZN LALIGA 2",DAZN LALIGA 2
+http://192.168.192.100:8001/1:0:19:7534:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30353" tvg-logo="http://192.168.192.100/picon/daznlaliga2.png" tvg-id="1:0:1:7691:41E:1:C00000:0:0:0:" tvg-name="DAZN LALIGA 2",DAZN LALIGA 2
 #EXTVLCOPT:program=30353
-http://192.168.1.100:8001/1:0:1:7691:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29853" tvg-logo="http://192.168.1.100/picon/daznlaliga2hd.png" tvg-id="1:0:19:749D:41C:1:C00000:0:0:0:" tvg-name="DAZN LALIGA 2 HD",DAZN LALIGA 2 HD
+http://192.168.192.100:8001/1:0:1:7691:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29853" tvg-logo="http://192.168.192.100/picon/daznlaliga2hd.png" tvg-id="1:0:19:749D:41C:1:C00000:0:0:0:" tvg-name="DAZN LALIGA 2 HD",DAZN LALIGA 2 HD
 #EXTVLCOPT:program=29853
-http://192.168.1.100:8001/1:0:19:749D:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30900" tvg-logo="http://192.168.1.100/picon/mpluslcampeones.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="M+LCAMPEONES",M+LCAMPEONES
+http://192.168.192.100:8001/1:0:19:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30900" tvg-logo="http://192.168.192.100/picon/mpluslcampeones.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="M+LCAMPEONES",M+LCAMPEONES
 #EXTVLCOPT:program=30900
-http://192.168.1.100:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29854" tvg-logo="http://192.168.1.100/picon/mpluslcampeon2.png" tvg-id="1:0:19:749E:41C:1:C00000:0:0:0:" tvg-name="M+LCAMPEON2",M+LCAMPEON2
+http://192.168.192.100:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29854" tvg-logo="http://192.168.192.100/picon/mpluslcampeon2.png" tvg-id="1:0:19:749E:41C:1:C00000:0:0:0:" tvg-name="M+LCAMPEON2",M+LCAMPEON2
 #EXTVLCOPT:program=29854
-http://192.168.1.100:8001/1:0:19:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29855" tvg-logo="http://192.168.1.100/picon/mpluslcampeon3.png" tvg-id="1:0:19:749F:41C:1:C00000:0:0:0:" tvg-name="M+LCAMPEON3",M+LCAMPEON3
+http://192.168.192.100:8001/1:0:19:749E:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29855" tvg-logo="http://192.168.192.100/picon/mpluslcampeon3.png" tvg-id="1:0:19:749F:41C:1:C00000:0:0:0:" tvg-name="M+LCAMPEON3",M+LCAMPEON3
 #EXTVLCOPT:program=29855
-http://192.168.1.100:8001/1:0:19:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30680" tvg-logo="http://192.168.1.100/picon/mpluslcampeon4.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON4",M+LCAMPEON4
+http://192.168.192.100:8001/1:0:19:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30680" tvg-logo="http://192.168.192.100/picon/mpluslcampeon4.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON4",M+LCAMPEON4
 #EXTVLCOPT:program=30680
-http://192.168.1.100:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30660" tvg-logo="http://192.168.1.100/picon/mpluslcampeon5.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON5",M+LCAMPEON5
+http://192.168.192.100:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30660" tvg-logo="http://192.168.192.100/picon/mpluslcampeon5.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON5",M+LCAMPEON5
 #EXTVLCOPT:program=30660
-http://192.168.1.100:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30761" tvg-logo="http://192.168.1.100/picon/mpluslcampeon6.png" tvg-id="1:0:1:7829:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON6",M+LCAMPEON6
+http://192.168.192.100:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30761" tvg-logo="http://192.168.192.100/picon/mpluslcampeon6.png" tvg-id="1:0:1:7829:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON6",M+LCAMPEON6
 #EXTVLCOPT:program=30761
-http://192.168.1.100:8001/1:0:1:7829:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30754" tvg-logo="http://192.168.1.100/picon/mpluslcampeon7.png" tvg-id="1:0:1:7822:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON7",M+LCAMPEON7
+http://192.168.192.100:8001/1:0:1:7829:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30754" tvg-logo="http://192.168.192.100/picon/mpluslcampeon7.png" tvg-id="1:0:1:7822:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON7",M+LCAMPEON7
 #EXTVLCOPT:program=30754
-http://192.168.1.100:8001/1:0:1:7822:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30756" tvg-logo="http://192.168.1.100/picon/mpluslcampeon8.png" tvg-id="1:0:1:7824:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON8",M+LCAMPEON8
+http://192.168.192.100:8001/1:0:1:7822:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30756" tvg-logo="http://192.168.192.100/picon/mpluslcampeon8.png" tvg-id="1:0:1:7824:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON8",M+LCAMPEON8
 #EXTVLCOPT:program=30756
-http://192.168.1.100:8001/1:0:1:7824:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30764" tvg-logo="http://192.168.1.100/picon/mpluslcampeon9.png" tvg-id="1:0:1:782C:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON9",M+LCAMPEON9
+http://192.168.192.100:8001/1:0:1:7824:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30764" tvg-logo="http://192.168.192.100/picon/mpluslcampeon9.png" tvg-id="1:0:1:782C:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON9",M+LCAMPEON9
 #EXTVLCOPT:program=30764
-http://192.168.1.100:8001/1:0:1:782C:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30767" tvg-logo="http://192.168.1.100/picon/mpluslcampeon10.png" tvg-id="1:0:1:782F:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON10",M+LCAMPEON10
+http://192.168.192.100:8001/1:0:1:782C:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30767" tvg-logo="http://192.168.192.100/picon/mpluslcampeon10.png" tvg-id="1:0:1:782F:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON10",M+LCAMPEON10
 #EXTVLCOPT:program=30767
-http://192.168.1.100:8001/1:0:1:782F:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30752" tvg-logo="http://192.168.1.100/picon/mpluslcampeon11.png" tvg-id="1:0:1:7820:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON11",M+LCAMPEON11
+http://192.168.192.100:8001/1:0:1:782F:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30752" tvg-logo="http://192.168.192.100/picon/mpluslcampeon11.png" tvg-id="1:0:1:7820:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON11",M+LCAMPEON11
 #EXTVLCOPT:program=30752
-http://192.168.1.100:8001/1:0:1:7820:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30753" tvg-logo="http://192.168.1.100/picon/mpluslcampeon12.png" tvg-id="1:0:1:7821:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON12",M+LCAMPEON12
+http://192.168.192.100:8001/1:0:1:7820:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30753" tvg-logo="http://192.168.192.100/picon/mpluslcampeon12.png" tvg-id="1:0:1:7821:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON12",M+LCAMPEON12
 #EXTVLCOPT:program=30753
-http://192.168.1.100:8001/1:0:1:7821:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30763" tvg-logo="http://192.168.1.100/picon/mpluslcampeon13.png" tvg-id="1:0:1:782B:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON13",M+LCAMPEON13
+http://192.168.192.100:8001/1:0:1:7821:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30763" tvg-logo="http://192.168.192.100/picon/mpluslcampeon13.png" tvg-id="1:0:1:782B:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON13",M+LCAMPEON13
 #EXTVLCOPT:program=30763
-http://192.168.1.100:8001/1:0:1:782B:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29851" tvg-logo="http://192.168.1.100/picon/laligatvhypermotion.png" tvg-id="1:0:19:749B:41C:1:C00000:0:0:0:" tvg-name="LALIGA TV HYPERMOTION",LALIGA TV HYPERMOTION
+http://192.168.192.100:8001/1:0:1:782B:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29851" tvg-logo="http://192.168.192.100/picon/laligatvhypermotion.png" tvg-id="1:0:19:749B:41C:1:C00000:0:0:0:" tvg-name="LALIGA TV HYPERMOTION",LALIGA TV HYPERMOTION
 #EXTVLCOPT:program=29851
-http://192.168.1.100:8001/1:0:19:749B:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="278" tvg-logo="http://192.168.1.100/picon/golplay.png" tvg-id="1:0:19:116:E:22D4:EEEE0000:0:0:0:" tvg-name="GOL PLAY HD",GOL PLAY HD
+http://192.168.192.100:8001/1:0:19:749B:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="278" tvg-logo="http://192.168.192.100/picon/golplay.png" tvg-id="1:0:19:116:E:22D4:EEEE0000:0:0:0:" tvg-name="GOL PLAY HD",GOL PLAY HD
 #EXTVLCOPT:program=278
-http://192.168.1.100:8001/1:0:19:116:E:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="410" tvg-logo="http://192.168.1.100/picon/tdphd.png" tvg-id="1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:" tvg-name="tdp HD",tdp HD
+http://192.168.192.100:8001/1:0:19:116:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="410" tvg-logo="http://192.168.192.100/picon/tdphd.png" tvg-id="1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:" tvg-name="tdp HD",tdp HD
 #EXTVLCOPT:program=410
-http://192.168.1.100:8001/1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="30372" tvg-logo="http://192.168.1.100/picon/dazn1.png" tvg-id="1:0:1:76A4:41E:1:C00000:0:0:0:" tvg-name="DAZN 1",DAZN 1
+http://192.168.192.100:8001/1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="30372" tvg-logo="http://192.168.192.100/picon/dazn1.png" tvg-id="1:0:1:76A4:41E:1:C00000:0:0:0:" tvg-name="DAZN 1",DAZN 1
 #EXTVLCOPT:program=30372
-http://192.168.1.100:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30506" tvg-logo="http://192.168.1.100/picon/dazn2.png" tvg-id="1:0:1:772A:416:1:C00000:0:0:0:" tvg-name="DAZN 2",DAZN 2
+http://192.168.192.100:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30506" tvg-logo="http://192.168.192.100/picon/dazn2.png" tvg-id="1:0:1:772A:416:1:C00000:0:0:0:" tvg-name="DAZN 2",DAZN 2
 #EXTVLCOPT:program=30506
-http://192.168.1.100:8001/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30912" tvg-logo="http://192.168.1.100/picon/mplusdeporteshd.png" tvg-id="1:0:19:78C0:3EC:1:C00000:0:0:0:" tvg-name="M+DEPORTESHD",M+DEPORTESHD
+http://192.168.192.100:8001/1:0:1:772A:416:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30912" tvg-logo="http://192.168.192.100/picon/mplusdeporteshd.png" tvg-id="1:0:19:78C0:3EC:1:C00000:0:0:0:" tvg-name="M+DEPORTESHD",M+DEPORTESHD
 #EXTVLCOPT:program=30912
-http://192.168.1.100:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30002" tvg-logo="http://192.168.1.100/picon/mplusdeportes2hd.png" tvg-id="1:0:19:7532:426:1:C00000:0:0:0:" tvg-name="M+DEPORTES2HD",M+DEPORTES2HD
+http://192.168.192.100:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30002" tvg-logo="http://192.168.192.100/picon/mplusdeportes2hd.png" tvg-id="1:0:19:7532:426:1:C00000:0:0:0:" tvg-name="M+DEPORTES2HD",M+DEPORTES2HD
 #EXTVLCOPT:program=30002
-http://192.168.1.100:8001/1:0:19:7532:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30005" tvg-logo="http://192.168.1.100/picon/eurosport1hd.png" tvg-id="1:0:19:7535:426:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
+http://192.168.192.100:8001/1:0:19:7532:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30005" tvg-logo="http://192.168.192.100/picon/eurosport1hd.png" tvg-id="1:0:19:7535:426:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
 #EXTVLCOPT:program=30005
-http://192.168.1.100:8001/1:0:19:7535:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30373" tvg-logo="http://192.168.1.100/picon/eurosport2.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
+http://192.168.192.100:8001/1:0:19:7535:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30373" tvg-logo="http://192.168.192.100/picon/eurosport2.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
 #EXTVLCOPT:program=30373
-http://192.168.1.100:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30001" tvg-logo="http://192.168.1.100/picon/daznf1hd.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
+http://192.168.192.100:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30001" tvg-logo="http://192.168.192.100/picon/daznf1hd.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
 #EXTVLCOPT:program=30001
-http://192.168.1.100:8001/1:0:19:7531:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29960" tvg-logo="http://192.168.1.100/picon/mplusvamoshd.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="M+ VAMOSHD",M+ VAMOSHD
+http://192.168.192.100:8001/1:0:19:7531:426:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29960" tvg-logo="http://192.168.192.100/picon/mplusvamoshd.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="M+ VAMOSHD",M+ VAMOSHD
 #EXTVLCOPT:program=29960
-http://192.168.1.100:8001/1:0:19:7508:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30901" tvg-logo="http://192.168.1.100/picon/mplusellasvhd.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="M+ELLAS V HD",M+ELLAS V HD
+http://192.168.192.100:8001/1:0:19:7508:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30901" tvg-logo="http://192.168.192.100/picon/mplusellasvhd.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="M+ELLAS V HD",M+ELLAS V HD
 #EXTVLCOPT:program=30901
-http://192.168.1.100:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.1.100/picon/la1hd.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
+http://192.168.192.100:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.192.100/picon/la1hd.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
 #EXTVLCOPT:program=414
-http://192.168.1.100:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="418" tvg-logo="http://192.168.1.100/picon/la2hd.png" tvg-id="1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
+http://192.168.192.100:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="418" tvg-logo="http://192.168.192.100/picon/la2hd.png" tvg-id="1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
 #EXTVLCOPT:program=418
-http://192.168.1.100:8001/1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="149" tvg-logo="http://192.168.1.100/picon/antena3.png" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="Antena 3",Antena 3
+http://192.168.192.100:8001/1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="149" tvg-logo="http://192.168.192.100/picon/antena3.png" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="Antena 3",Antena 3
 #EXTVLCOPT:program=149
-http://192.168.1.100:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="191" tvg-logo="http://192.168.1.100/picon/cuatrohd.png" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
+http://192.168.192.100:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="191" tvg-logo="http://192.168.192.100/picon/cuatrohd.png" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
 #EXTVLCOPT:program=191
-http://192.168.1.100:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="190" tvg-logo="http://192.168.1.100/picon/telecincohd.png" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
+http://192.168.192.100:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="190" tvg-logo="http://192.168.192.100/picon/telecincohd.png" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
 #EXTVLCOPT:program=190
-http://192.168.1.100:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="151" tvg-logo="http://192.168.1.100/picon/lasexta.png" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
+http://192.168.192.100:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="151" tvg-logo="http://192.168.192.100/picon/lasexta.png" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
 #EXTVLCOPT:program=151
-http://192.168.1.100:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
+http://192.168.192.100:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
