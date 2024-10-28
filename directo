@@ -2,130 +2,130 @@
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-chno="30088" tvg-logo="http://10.147.17.1/picon/movistarplusplus.png" tvg-id="1:0:1:7588:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+",Movistar Plus+
 #EXTVLCOPT:program=30088
-http://10.147.17.1:8001/1:0:1:7588:412:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7588:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30073" tvg-logo="http://10.147.17.1/picon/movistarplusplus2.png" tvg-id="1:0:1:7579:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+ 2",Movistar Plus+ 2
 #EXTVLCOPT:program=30073
-http://10.147.17.1:8001/1:0:1:7579:412:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7579:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30402" tvg-logo="http://10.147.17.1/picon/la1.png" tvg-id="1:0:1:76C2:40E:1:C00000:0:0:0:" tvg-name="LA 1",LA 1
 #EXTVLCOPT:program=30402
-http://10.147.17.1:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76C2:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29812" tvg-logo="http://10.147.17.1/picon/la2.png" tvg-id="1:0:1:7474:3F0:1:C00000:0:0:0:" tvg-name="LA 2",LA 2
 #EXTVLCOPT:program=29812
-http://10.147.17.1:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7474:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30508" tvg-logo="http://10.147.17.1/picon/antena3.png" tvg-id="1:0:1:772C:416:1:C00000:0:0:0:" tvg-name="ANTENA 3",ANTENA 3
 #EXTVLCOPT:program=30508
-http://10.147.17.1:8001/1:0:1:772C:416:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:772C:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30610" tvg-logo="http://10.147.17.1/picon/cuatro.png" tvg-id="1:0:1:7792:424:1:C00000:0:0:0:" tvg-name="CUATRO",CUATRO
 #EXTVLCOPT:program=30610
-http://10.147.17.1:8001/1:0:1:7792:424:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7792:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30604" tvg-logo="http://10.147.17.1/picon/telecinco.png" tvg-id="1:0:1:778C:424:1:C00000:0:0:0:" tvg-name="TELECINCO",TELECINCO
 #EXTVLCOPT:program=30604
-http://10.147.17.1:8001/1:0:1:778C:424:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:778C:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30366" tvg-logo="http://10.147.17.1/picon/lasexta.png" tvg-id="1:0:1:769E:41E:1:C00000:0:0:0:" tvg-name="LA SEXTA",LA SEXTA
 #EXTVLCOPT:program=30366
-http://10.147.17.1:8001/1:0:1:769E:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:769E:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29967" tvg-logo="http://10.147.17.1/picon/mpluslaligatvhd.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV HD",M+ LALIGA TV HD
 #EXTVLCOPT:program=29967
-http://10.147.17.1:8001/1:0:19:750F:420:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:750F:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30365" tvg-logo="http://10.147.17.1/picon/mpluslaligatv2.png" tvg-id="1:0:1:769D:41E:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV 2",M+ LALIGA TV 2
 #EXTVLCOPT:program=30365
-http://10.147.17.1:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:769D:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30409" tvg-logo="http://10.147.17.1/picon/daznlaliga.png" tvg-id="1:0:1:76C9:40E:1:C00000:0:0:0:" tvg-name="DAZN LALIGA",DAZN LALIGA
 #EXTVLCOPT:program=30409
-http://10.147.17.1:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76C9:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29853" tvg-logo="http://10.147.17.1/picon/daznlaliga2hd.png" tvg-id="1:0:19:749D:41C:1:C00000:0:0:0:" tvg-name="DAZN LALIGA 2 HD",DAZN LALIGA 2 HD
 #EXTVLCOPT:program=29853
-http://10.147.17.1:8001/1:0:19:749D:41C:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:749D:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30075" tvg-logo="http://10.147.17.1/picon/mpluslcampeones.png" tvg-id="1:0:1:757B:412:1:C00000:0:0:0:" tvg-name="M+LCAMPEONES",M+LCAMPEONES
 #EXTVLCOPT:program=30075
-http://10.147.17.1:8001/1:0:1:757B:412:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:757B:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30659" tvg-logo="http://10.147.17.1/picon/mpluslcampeon2.png" tvg-id="1:0:1:77C3:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON2",M+LCAMPEON2
 #EXTVLCOPT:program=30659
-http://10.147.17.1:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30367" tvg-logo="http://10.147.17.1/picon/mpluslcampeon3.png" tvg-id="1:0:1:769F:41E:1:C00000:0:0:0:" tvg-name="M+LCAMPEON3",M+LCAMPEON3
 #EXTVLCOPT:program=30367
-http://10.147.17.1:8001/1:0:1:769F:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:769F:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30680" tvg-logo="http://10.147.17.1/picon/mpluslcampeon4.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON4",M+LCAMPEON4
 #EXTVLCOPT:program=30680
-http://10.147.17.1:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77D8:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30660" tvg-logo="http://10.147.17.1/picon/mpluslcampeon5.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="M+LCAMPEON5",M+LCAMPEON5
 #EXTVLCOPT:program=30660
-http://10.147.17.1:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C4:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30761" tvg-logo="http://10.147.17.1/picon/mpluslcampeon6.png" tvg-id="1:0:1:7829:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON6",M+LCAMPEON6
 #EXTVLCOPT:program=30761
-http://10.147.17.1:8001/1:0:1:7829:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7829:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30754" tvg-logo="http://10.147.17.1/picon/mpluslcampeon7.png" tvg-id="1:0:1:7822:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON7",M+LCAMPEON7
 #EXTVLCOPT:program=30754
-http://10.147.17.1:8001/1:0:1:7822:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7822:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30371" tvg-logo="http://10.147.17.1/picon/multideporte.png" tvg-id="1:0:1:76A3:41E:1:C00000:0:0:0:" tvg-name="MULTIDEPORTE",MULTIDEPORTE
 #EXTVLCOPT:program=30371
-http://10.147.17.1:8001/1:0:1:76A3:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76A3:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30901" tvg-logo="http://10.147.17.1/picon/mplusellasvhd.png" tvg-id="1:0:19:78B5:3EC:1:C00000:0:0:0:" tvg-name="M+ELLAS V HD",M+ELLAS V HD
 #EXTVLCOPT:program=30901
-http://10.147.17.1:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:78B5:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29960" tvg-logo="http://10.147.17.1/picon/mplusvamoshd.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="M+ VAMOSHD",M+ VAMOSHD
 #EXTVLCOPT:program=29960
-http://10.147.17.1:8001/1:0:19:7508:420:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:7508:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30912" tvg-logo="http://10.147.17.1/picon/mplusdeporteshd.png" tvg-id="1:0:19:78C0:3EC:1:C00000:0:0:0:" tvg-name="M+DEPORTESHD",M+DEPORTESHD
 #EXTVLCOPT:program=30912
-http://10.147.17.1:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:78C0:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30521" tvg-logo="http://10.147.17.1/picon/mplusdeportes2.png" tvg-id="1:0:1:7739:416:1:C00000:0:0:0:" tvg-name="M+DEPORTES2",M+DEPORTES2
 #EXTVLCOPT:program=30521
-http://10.147.17.1:8001/1:0:1:7739:416:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7739:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30658" tvg-logo="http://10.147.17.1/picon/mplusdeportes3.png" tvg-id="1:0:1:77C2:40A:1:C00000:0:0:0:" tvg-name="M+DEPORTES3",M+DEPORTES3
 #EXTVLCOPT:program=30658
-http://10.147.17.1:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C2:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30655" tvg-logo="http://10.147.17.1/picon/mplusdeportes4.png" tvg-id="1:0:1:77BF:40A:1:C00000:0:0:0:" tvg-name="M+DEPORTES4",M+DEPORTES4
 #EXTVLCOPT:program=30655
-http://10.147.17.1:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77BF:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30664" tvg-logo="http://10.147.17.1/picon/mplusdeportes5.png" tvg-id="1:0:1:77C8:40A:1:C00000:0:0:0:" tvg-name="M+DEPORTES5",M+DEPORTES5
 #EXTVLCOPT:program=30664
-http://10.147.17.1:8001/1:0:1:77C8:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C8:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30363" tvg-logo="http://10.147.17.1/picon/mplusdeportes6.png" tvg-id="1:0:1:769B:41E:1:C00000:0:0:0:" tvg-name="M+DEPORTES6",M+DEPORTES6
 #EXTVLCOPT:program=30363
-http://10.147.17.1:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:769B:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30765" tvg-logo="http://10.147.17.1/picon/mplusdeportes7.png" tvg-id="1:0:1:782D:428:1:C00000:0:0:0:" tvg-name="M+DEPORTES7",M+DEPORTES7
 #EXTVLCOPT:program=30765
-http://10.147.17.1:8001/1:0:1:782D:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:782D:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30665" tvg-logo="http://10.147.17.1/picon/mplusdeportes8.png" tvg-id="1:0:1:77C9:40A:1:C00000:0:0:0:" tvg-name="M+DEPORTES8",M+DEPORTES8
 #EXTVLCOPT:program=30665
-http://10.147.17.1:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C9:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30005" tvg-logo="http://10.147.17.1/picon/eurosport1hd.png" tvg-id="1:0:19:7535:426:1:C00000:0:0:0:" tvg-name="EUROSPORT1HD",EUROSPORT1HD
 #EXTVLCOPT:program=30005
-http://10.147.17.1:8001/1:0:19:7535:426:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:7535:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30373" tvg-logo="http://10.147.17.1/picon/eurosport2.png" tvg-id="1:0:1:76A5:41E:1:C00000:0:0:0:" tvg-name="EUROSPORT 2",EUROSPORT 2
 #EXTVLCOPT:program=30373
-http://10.147.17.1:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76A5:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30412" tvg-logo="http://10.147.17.1/picon/teledeporte.png" tvg-id="1:0:1:76CC:40E:1:C00000:0:0:0:" tvg-name="TELEDEPORTE",TELEDEPORTE
 #EXTVLCOPT:program=30412
-http://10.147.17.1:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76CC:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30864" tvg-logo="http://10.147.17.1/picon/golplay.png" tvg-id="1:0:1:7890:414:1:C00000:0:0:0:" tvg-name="GOL PLAY",GOL PLAY
 #EXTVLCOPT:program=30864
-http://10.147.17.1:8001/1:0:1:7890:414:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7890:414:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30372" tvg-logo="http://10.147.17.1/picon/dazn1.png" tvg-id="1:0:1:76A4:41E:1:C00000:0:0:0:" tvg-name="DAZN 1",DAZN 1
 #EXTVLCOPT:program=30372
-http://10.147.17.1:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:76A4:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30506" tvg-logo="http://10.147.17.1/picon/dazn2.png" tvg-id="1:0:1:772A:416:1:C00000:0:0:0:" tvg-name="DAZN 2",DAZN 2
 #EXTVLCOPT:program=30506
-http://10.147.17.1:8001/1:0:1:772A:416:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:772A:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30654" tvg-logo="http://10.147.17.1/picon/dazn3.png" tvg-id="1:0:1:77BE:40A:1:C00000:0:0:0:" tvg-name="DAZN 3",DAZN 3
 #EXTVLCOPT:program=30654
-http://10.147.17.1:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77BE:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30656" tvg-logo="http://10.147.17.1/picon/dazn4.png" tvg-id="1:0:1:77C0:40A:1:C00000:0:0:0:" tvg-name="DAZN 4",DAZN 4
 #EXTVLCOPT:program=30656
-http://10.147.17.1:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30757" tvg-logo="http://10.147.17.1/picon/laligatvhypermotion.png" tvg-id="1:0:1:7825:428:1:C00000:0:0:0:" tvg-name="LALIGA TV HYPERMOTION",LALIGA TV HYPERMOTION
 #EXTVLCOPT:program=30757
-http://10.147.17.1:8001/1:0:1:7825:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7825:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30769" tvg-logo="http://10.147.17.1/picon/laligatvhypermotion2.png" tvg-id="1:0:1:7831:428:1:C00000:0:0:0:" tvg-name="LALIGA TV HYPERMOTION 2",LALIGA TV HYPERMOTION 2
 #EXTVLCOPT:program=30769
-http://10.147.17.1:8001/1:0:1:7831:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:7831:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30762" tvg-logo="http://10.147.17.1/picon/laligatvhypermotion3.png" tvg-id="1:0:1:782A:428:1:C00000:0:0:0:" tvg-name="LALIGA TV HYPERMOTION 3",LALIGA TV HYPERMOTION 3
 #EXTVLCOPT:program=30762
-http://10.147.17.1:8001/1:0:1:782A:428:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:1:782A:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30001" tvg-logo="http://10.147.17.1/picon/daznf1hd.png" tvg-id="1:0:19:7531:426:1:C00000:0:0:0:" tvg-name="DAZN F1 HD",DAZN F1 HD
 #EXTVLCOPT:program=30001
-http://10.147.17.1:8001/1:0:19:7531:426:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:7531:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30903" tvg-logo="http://10.147.17.1/picon/mplusgolfhd.png" tvg-id="1:0:19:78B7:3EC:1:C00000:0:0:0:" tvg-name="M+ GOLF HD",M+ GOLF HD
 #EXTVLCOPT:program=30903
-http://10.147.17.1:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
+http://root:mercadona@e0l6og7bifaeozyi.myfritz.net:12888/1:0:19:78B7:3EC:1:C00000:0:0:0:
