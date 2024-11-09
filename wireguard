@@ -24,7 +24,7 @@ http://192.168.192.100:8001/1:0:1:778C:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30366" tvg-logo="http://192.168.192.100/picon/lasexta.png" tvg-id="1:0:1:769E:41E:1:C00000:0:0:0:" tvg-name="LA SEXTA",LA SEXTA
 #EXTVLCOPT:program=30366
 http://192.168.192.100:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30084" tvg-logo="http://192.168.192.100/picon/mpluscopadelrey.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="M+ Copa del Rey",M+ Copa del Rey
+#EXTINF:-1 tvg-chno="30084" tvg-logo="http://192.168.192.100/picon/mpluscopadelreyhd.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="M+ Copa del Rey",M+ Copa del Rey
 #EXTVLCOPT:program=30084
 http://192.168.192.100:8001/1:0:19:7504:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29967" tvg-logo="http://192.168.192.100/picon/mpluslaligatvhd.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV HD",M+ LALIGA TV HD
