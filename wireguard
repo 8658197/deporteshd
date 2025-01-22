@@ -24,7 +24,7 @@ http://192.168.8.100:8001/1:0:1:778C:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30366" tvg-logo="http://192.168.8.100/picon/lasexta.png" tvg-id="1:0:1:769E:41E:1:C00000:0:0:0:" tvg-name="LA SEXTA",LA SEXTA
 #EXTVLCOPT:program=30366
 http://192.168.8.100:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29956" tvg-logo="http://192.168.8.100/picon/mpluscopadelreyhd.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="M+Copa del Rey HD",M+Copa del Rey HD
+#EXTINF:-1 tvg-chno="29956" tvg-logo="http://192.168.8.100/picon/mpluscopadelreyhd.png" tvg-id="1:0:19:7504:420:1:C00000:0:0:0:" tvg-name="M+ Copa del Rey HD",M+ Copa del Rey HD
 #EXTVLCOPT:program=29956
 http://192.168.8.100:8001/1:0:19:7504:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29967" tvg-logo="http://192.168.8.100/picon/mpluslaligatvhd.png" tvg-id="1:0:19:750F:420:1:C00000:0:0:0:" tvg-name="M+ LALIGA TV HD",M+ LALIGA TV HD
@@ -78,6 +78,42 @@ http://192.168.8.100:8001/1:0:1:7829:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30754" tvg-logo="http://192.168.8.100/picon/mpluslcampeon7.png" tvg-id="1:0:1:7822:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON7",M+LCAMPEON7
 #EXTVLCOPT:program=30754
 http://192.168.8.100:8001/1:0:1:7822:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30756" tvg-logo="http://192.168.8.100/picon/mpluslcampeon8.png" tvg-id="1:0:1:7824:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON8",M+LCAMPEON8
+#EXTVLCOPT:program=30756
+http://192.168.8.100:8001/1:0:1:7824:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30764" tvg-logo="http://192.168.8.100/picon/mpluslcampeon9.png" tvg-id="1:0:1:782C:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON9",M+LCAMPEON9
+#EXTVLCOPT:program=30764
+http://192.168.8.100:8001/1:0:1:782C:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30767" tvg-logo="http://192.168.8.100/picon/mpluslcampeon10.png" tvg-id="1:0:1:782F:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON10",M+LCAMPEON10
+#EXTVLCOPT:program=30767
+http://192.168.8.100:8001/1:0:1:782F:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30752" tvg-logo="http://192.168.8.100/picon/mpluslcampeon11.png" tvg-id="1:0:1:7820:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON11",M+LCAMPEON11
+#EXTVLCOPT:program=30752
+http://192.168.8.100:8001/1:0:1:7820:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30753" tvg-logo="http://192.168.8.100/picon/mpluslcampeon12.png" tvg-id="1:0:1:7821:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON12",M+LCAMPEON12
+#EXTVLCOPT:program=30753
+http://192.168.8.100:8001/1:0:1:7821:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30763" tvg-logo="http://192.168.8.100/picon/mpluslcampeon13.png" tvg-id="1:0:1:782B:428:1:C00000:0:0:0:" tvg-name="M+LCAMPEON13",M+LCAMPEON13
+#EXTVLCOPT:program=30763
+http://192.168.8.100:8001/1:0:1:782B:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30616" tvg-logo="http://192.168.8.100/picon/mpluslcampeon14.png" tvg-id="1:0:1:7798:424:1:C00000:0:0:0:" tvg-name="M+LCAMPEON14",M+LCAMPEON14
+#EXTVLCOPT:program=30616
+http://192.168.8.100:8001/1:0:1:7798:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30850" tvg-logo="http://192.168.8.100/picon/mpluslcampeon15.png" tvg-id="1:0:1:7882:414:1:C00000:0:0:0:" tvg-name="M+LCAMPEON15",M+LCAMPEON15
+#EXTVLCOPT:program=30850
+http://192.168.8.100:8001/1:0:1:7882:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30860" tvg-logo="http://192.168.8.100/picon/mpluslcampeon16.png" tvg-id="1:0:1:788C:414:1:C00000:0:0:0:" tvg-name="M+LCAMPEON16",M+LCAMPEON16
+#EXTVLCOPT:program=30860
+http://192.168.8.100:8001/1:0:1:788C:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30868" tvg-logo="http://192.168.8.100/picon/mpluslcampeon17.png" tvg-id="1:0:1:7894:414:1:C00000:0:0:0:" tvg-name="M+LCAMPEON17",M+LCAMPEON17
+#EXTVLCOPT:program=30868
+http://192.168.8.100:8001/1:0:1:7894:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30852" tvg-logo="http://192.168.8.100/picon/mpluslcampeon18.png" tvg-id="1:0:1:7884:414:1:C00000:0:0:0:" tvg-name="M+LCAMPEON18",M+LCAMPEON18
+#EXTVLCOPT:program=30852
+http://192.168.8.100:8001/1:0:1:7884:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30861" tvg-logo="http://192.168.8.100/picon/mpluslcampeon19.png" tvg-id="1:0:1:788D:414:1:C00000:0:0:0:" tvg-name="M+LCAMPEON19",M+LCAMPEON19
+#EXTVLCOPT:program=30861
+http://192.168.8.100:8001/1:0:1:788D:414:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30371" tvg-logo="http://192.168.8.100/picon/multideporte.png" tvg-id="1:0:1:76A3:41E:1:C00000:0:0:0:" tvg-name="MULTIDEPORTE",MULTIDEPORTE
 #EXTVLCOPT:program=30371
 http://192.168.8.100:8001/1:0:1:76A3:41E:1:C00000:0:0:0:
@@ -150,4 +186,5 @@ http://192.168.8.100:8001/1:0:19:7531:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30903" tvg-logo="http://192.168.8.100/picon/mplusgolfhd.png" tvg-id="1:0:19:78B7:3EC:1:C00000:0:0:0:" tvg-name="M+ GOLF HD",M+ GOLF HD
 #EXTVLCOPT:program=30903
 http://192.168.8.100:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
+
 
