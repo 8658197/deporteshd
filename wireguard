@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="30088" tvg-logo="http://192.168.8.100/picon/movistarplusplus.png" tvg-id="1:0:1:7588:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+",Movistar Plus+ SD
+#EXTINF:-1 tvg-chno="30088" tvg-logo="http://192.168.8.100/picon/movistarplusplus.png" tvg-id="1:0:1:7588:412:1:C00000:0:0:0:" tvg-name="Movistar Plus+",Movistar Plus+
 #EXTVLCOPT:program=30088
 http://192.168.8.100:8001/1:0:1:7588:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29850" tvg-logo="http://192.168.8.100/picon/movistarplusplushd.png" tvg-id="1:0:19:749A:41C:1:C00000:0:0:0:" tvg-name="Movistar Plus+ HD",Movistar Plus+ HD
