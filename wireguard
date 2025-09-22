@@ -1,38 +1,11 @@
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.8.100/picon/la1hd.png" tvg-id="1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
-#EXTVLCOPT:program=414
-http://192.168.8.100:8001/1:0:19:19E:3E8:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="418" tvg-logo="http://192.168.8.100/picon/la2hd.png" tvg-id="1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
-#EXTVLCOPT:program=418
-http://192.168.8.100:8001/1:0:19:1A2:3E8:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="149" tvg-logo="http://192.168.8.100/picon/antena3.png" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="Antena 3",Antena 3
-#EXTVLCOPT:program=149
-http://192.168.8.100:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="191" tvg-logo="http://192.168.8.100/picon/cuatrohd.png" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
-#EXTVLCOPT:program=191
-http://192.168.8.100:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="190" tvg-logo="http://192.168.8.100/picon/telecincohd.png" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
-#EXTVLCOPT:program=190
-http://192.168.8.100:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="151" tvg-logo="http://192.168.8.100/picon/lasexta.png" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
-#EXTVLCOPT:program=151
-http://192.168.8.100:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="1957" tvg-logo="http://192.168.8.100/picon/canalsurhd.png" tvg-id="1:0:19:7A5:10C:22D4:EEEE0000:0:0:0:" tvg-name="CanalSurHD",CanalSurHD
-#EXTVLCOPT:program=1957
-http://192.168.8.100:8001/1:0:19:7A5:10C:22D4:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-chno="29850" tvg-logo="http://192.168.8.100/picon/movistarplusplushd.png" tvg-id="1:0:19:749A:41C:1:C00000:0:0:0:" tvg-name="Movistar Plus+ HD",Movistar Plus+ HD
 #EXTVLCOPT:program=29850
 http://192.168.8.100:8001/1:0:19:749A:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29864" tvg-logo="http://192.168.8.100/picon/movistarplusplus2hd.png" tvg-id="1:0:19:74A8:41C:1:C00000:0:0:0:" tvg-name="Movistar Plus+2 HD",Movistar Plus+2 HD
 #EXTVLCOPT:program=29864
 http://192.168.8.100:8001/1:0:19:74A8:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="5601" tvg-logo="http://192.168.8.100/picon/betistv.png" tvg-id="1:0:1:15E1:230:22D4:EEEE0000:0:0:0:" tvg-name="BETIS TV",BETIS TV
-#EXTVLCOPT:program=5601
-http://192.168.8.100:8001/1:0:1:15E1:230:22D4:EEEE0000:0:0:0:
-#EXTINF:-1 tvg-chno="410" tvg-logo="http://192.168.8.100/picon/tdphd.png" tvg-id="1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:" tvg-name="tdp HD",tdp HD
-#EXTVLCOPT:program=410
-http://192.168.8.100:8001/1:0:19:19A:3E8:22D4:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-chno="29960" tvg-logo="http://192.168.8.100/picon/mplusvamoshd.png" tvg-id="1:0:19:7508:420:1:C00000:0:0:0:" tvg-name="M+ VAMOSHD",M+ VAMOSHD
 #EXTVLCOPT:program=29960
 http://192.168.8.100:8001/1:0:19:7508:420:1:C00000:0:0:0:
